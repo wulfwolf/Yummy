@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42165944518",
+    "project_id": "yummy-9dd32",
+    "storage_bucket": "yummy-9dd32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42165944518:android:eb5c011a0c73d1d2c657c7",
+        "android_client_info": {
+          "package_name": "com.yummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42165944518-2vfb66m0ivs1fia14cqsavqiq3im2hic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8AonFV7MrAveIUqd63pspRHQpB2x1z9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42165944518-2vfb66m0ivs1fia14cqsavqiq3im2hic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
